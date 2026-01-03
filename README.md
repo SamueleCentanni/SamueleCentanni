@@ -5,7 +5,7 @@
   <p>
     🎓 <b>AI Master's Student</b> @ Unibo | 💻 <b>Computer Engineer</b> (UNIMORE)<br>
     🎯 Focus: <b>Computer Vision & Deep Learning</b><br>
-    🚀 Currently working on my Internship @ <b>Hilti Group</b>
+    🚀 Currently working as a Computer Vision engineer on my Internship @ <b>Hilti Group</b>
   </p>
 
   <br>
@@ -36,8 +36,12 @@ Here are some of the projects I've worked on during my Master's degree in Artifi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamueleCentanni&show_icons=true&theme=radical&hide_border=true" height="180" alt="Samuele's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleCentanni&layout=compact&theme=radical&hide_border=true" height="180" alt="Samuele's Top Langs" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SamueleCentanni&show_icons=true&theme=radical&hide_border=true" height="180" alt="Samuele's Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleCentanni&layout=compact&theme=radical&hide_border=true" height="180" alt="Samuele's Top Langs" />
+  </a>
 </div>
 
 <br>
