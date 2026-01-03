@@ -5,7 +5,7 @@
   <p>
     🎓 <b>AI Master's Student</b> @ Unibo | 💻 <b>Computer Engineer</b> (UNIMORE)<br>
     🎯 Focus: <b>Computer Vision & Deep Learning</b><br>
-    🚀 Currently working as a Computer Vision engineer on my Internship @ <b>Hilti Group</b>
+    🚀 Currently working as a <b>Computer Vision Engineer Intern</b> @ <b>Hilti Group</b>
   </p>
 
   <br>
@@ -33,10 +33,7 @@ Here are some of the projects I've worked on during my Master's degree in Artifi
 
 <br>
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SamueleCentanni&show_icons=true&theme=radical&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleCentanni&layout=compact&theme=radical&hide_border=true)
+## Contact Me
 
 <br>
 
