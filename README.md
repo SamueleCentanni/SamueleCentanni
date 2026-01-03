@@ -34,15 +34,10 @@ Here are some of the projects I've worked on during my Master's degree in Artifi
 <br>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SamueleCentanni&show_icons=true&theme=radical&hide_border=true" height="180" alt="Samuele's Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleCentanni&layout=compact&theme=radical&hide_border=true" height="180" alt="Samuele's Top Langs" />
-  </a>
-</div>
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=SamueleCentanni&show_icons=true&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api?username=SamueleCentanni&show_icons=true&theme=radical&hide_border=true)" height="180" alt="Stats" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleCentanni&layout=compact&theme=radical&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueleCentanni&layout=compact&theme=radical&hide_border=true)" height="180" alt="Langs" />
+</p>
 
 <br>
 
