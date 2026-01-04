@@ -47,6 +47,11 @@ Here are some of the projects I've worked on during my Master's degree in Artifi
 
 <br>
 
+## My Contributions
+<div align="center">
+  <img src="http://ghchart.rshah.org/SamueleCentanni" alt="Samuele Centanni's Github chart" />
+</div>
+  
 ## Contact Me
 
 <br>
