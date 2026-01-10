@@ -56,7 +56,7 @@ Here are some of the projects I've worked on during my Master's degree in Artifi
 | :--- | :--- | :--- |
 | **[Pet Classification](https://github.com/SamueleCentanni/Pet-classification)** | 👁️ Computer Vision | CNNs and Transfer Learning (ResNet) to classify 37 breeds of cats and dogs using PyTorch. |
 | **[Instance Detection](https://github.com/SamueleCentanni/instance-detection)** | 👁️ Computer Vision | Traditional CV pipeline (SIFT, RANSAC) for recognizing specific book instances on cluttered shelves. |
-| **[Hate Speech Detection](https://github.com/SamueleCentanni/progNLP)** | 🧠 NLP / LLMs | From Hate Speech Detection with Transformers to Few-Shot Inference with Mistral & Llama. |
+| **[Hate Speech Detection](https://github.com/mattialodi0/progNLP)** | 🧠 NLP / LLMs | From Hate Speech Detection with Transformers to Few-Shot Inference with Mistral & Llama. |
 | **[Sport Scheduling](https://github.com/SamueleCentanni/CDMO_2025)** | 📐 Optimization | Solving tournament scheduling problems using CP, SAT, SMT, and MIP solvers. |
 
 <br>
