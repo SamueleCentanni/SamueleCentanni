@@ -10,6 +10,20 @@
 
   <br>
 
+
+## Contact Me
+
+<br>
+
+<div align="center">
+  <a href="mailto:samuelecentanni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/samuele-centanni">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 ## 🎯 Skills
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -47,20 +61,3 @@ Here are some of the projects I've worked on during my Master's degree in Artifi
 
 <br>
 
-## My Contributions
-<div align="center">
-  <img src="http://ghchart.rshah.org/SamueleCentanni" alt="Samuele Centanni's Github chart" />
-</div>
-  
-## Contact Me
-
-<br>
-
-<div align="center">
-  <a href="mailto:samuelecentanni@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/samuele-centanni">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
